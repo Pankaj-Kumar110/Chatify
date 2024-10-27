@@ -2,7 +2,8 @@ Chatify
 
 Chatify is a real-time chat application built using React and FastAPI. The application aims to provide seamless communication between users with features like private messaging, online status indication, and user profiles.
 
-![Screenshot of Chatify](./Frontend/public/UI_screenshot)
+![UI_screenshot](https://github.com/user-attachments/assets/760bd8e2-58f2-4058-b0fc-0bd3d8aae540)
+
 
 Features
 
