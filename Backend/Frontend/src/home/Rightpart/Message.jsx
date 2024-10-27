@@ -64,7 +64,7 @@ function Message({ message }) {
       {itsMe && (
         <Avatar
           alt="User Avatar"
-          src="../../../public/photo.jpg"
+          src="/photo.jpg"
           className={classes.avatar}
         />
       )}
